@@ -1,6 +1,6 @@
 # Marketing Web App React
 
-![dp](https://github.com/senethmendis/material-practice-threejs/blob/main/public/bg.PNG)
+![dp](https://github.com/senethmendis/marketing-web-app-ux-ui/blob/main/public/output-onlinegiftools.gif)
 
 ### Built With
 
