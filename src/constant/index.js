@@ -1,4 +1,13 @@
-import { Apple, Canon, Sony, Spotify } from "../assets";
+import {
+  Apple,
+  Canon,
+  facebook,
+  insta,
+  Sony,
+  Spotify,
+  twitter,
+  youtube,
+} from "../assets";
 
 export const NavbarItems = [
   {
@@ -25,5 +34,26 @@ export const PricingItems = [
   "Enhanced visibility search",
   "Advance matching",
 ];
+
+export const FooterDetaisls = [
+  {
+    head: "Solution",
+    Items: ["digital marketing", "socialmedia", "ads", "SEO"],
+  },
+  {
+    head: "Resource",
+    Items: ["news & media", "culture", "blog"],
+  },
+  {
+    head: "Tools",
+    Items: ["pricing", "compare us", "support"],
+  },
+  {
+    head: "Company",
+    Items: ["about us", "career", "contact"],
+  },
+];
+
+export const SocialLogs = [insta, facebook, youtube, twitter];
 
 export const BrandLogos = [Sony, Apple, Spotify, Canon];

@@ -11,6 +11,12 @@ import Annouce from "./annouce.png";
 import Laptop from "./laptop.png";
 import Glob from "./globe.png";
 import Check from "./check.png";
+import Chart from "./chart.png";
+
+import insta from "./instagram.png";
+import facebook from "./facebook.png";
+import twitter from "./twitter.png";
+import youtube from "./youtube.png";
 
 export {
   Laptop,
@@ -26,4 +32,9 @@ export {
   Annouce,
   HSK,
   Check,
+  Chart,
+  facebook,
+  insta,
+  twitter,
+  youtube,
 };
