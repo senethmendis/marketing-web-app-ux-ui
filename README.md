@@ -1,6 +1,6 @@
 # Marketing Web App React
 
-![dp](https://github.com/senethmendis/marketing-web-app-ux-ui/blob/main/public/output-onlinegiftools.gif)
+![dp](https://github.com/senethmendis/marketing-web-app-ux-ui/blob/main/public/Capture%20(2).png)
 
 ### Built With
 
