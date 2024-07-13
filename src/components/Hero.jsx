@@ -49,7 +49,7 @@ const Hero = () => {
         <div className="w-full md:h-[600px] hidden md:flex justify-center items-center flex-1 md:w-1/2 bg-black ">
           <Canvas style={{ backgroundColor: "white" }}>
             <Environment preset="studio" />
-            <OrbitControls enableZoom={false} />
+            <OrbitControls enableZoom={false} autoRotate />
             <Laptop
               scale={0.1}
               rotation={[1, 4.7, 0.7]}
